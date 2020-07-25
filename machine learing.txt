@@ -1,0 +1,7 @@
+What is Machine Learning
+
+Machine learning is used in internet search engines, email filters to sort out spam, websites to make personalised recommendations, banking software to detect unusual transactions, and lots of apps on our phones such as voice recognition.
+
+The technology has many more potential applications, some with higher stakes than others. Future developments could support the UK economy and will have a significant impact upon society. For example, machine learning could provide us with readily available ‘personal assistants’ to help manage our lives, it could dramatically improve the transport system through the use of autonomous vehicles; and the healthcare system, by improving disease diagnoses or personalising treatment. Machine learning could also be used for security applications, such as analysing email communications or internet usage. The implications of these and other applications of the technology need to be considered now and action taken to ensure uses will be beneficial to society.
+
+Machine learning is distinct from, but overlaps with, some aspects of robotics (robots are an example of the hardware that can use machine learning algorithms, for instance to make robots autonomous) and artificial intelligence (AI) (a concept that doesn’t have an agreed definition; however machine learning is a way of achieving a degree of AI). 
